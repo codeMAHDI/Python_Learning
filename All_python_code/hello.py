@@ -27,3 +27,15 @@ print(message)
 #print(message)
 
 # Numbers
+a= 3
+b=3
+print(a+b)
+print(a-b)
+print(a*b)
+print(f"Result = {a**b}")
+print(a/b)
+number = "1_000.5464646"
+print(type(number))
+
+x, y, z = 0, 2, 0
+print(x, y, z)
