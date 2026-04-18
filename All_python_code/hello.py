@@ -39,3 +39,8 @@ print(type(number))
 
 x, y, z = 0, 2, 0
 print(x, y, z)
+
+MAX_CONNECTIONS = 5000
+print(MAX_CONNECTIONS)
+MAX_CONNECTIONS= 5
+print(MAX_CONNECTIONS)
