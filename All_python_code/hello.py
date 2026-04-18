@@ -19,3 +19,11 @@ print(favorite_language.lstrip())
 favorite_language = ' python '
 print(favorite_language)   
 print(favorite_language.strip())
+
+message = "One of Python's" "strengths is its diverse community."
+print(message)
+
+#message = 'One of Python's strengths is its diverse community.'
+#print(message)
+
+# Numbers
